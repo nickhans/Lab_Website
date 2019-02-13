@@ -24,3 +24,7 @@ table, th, td {
   margin-top: 10px;
   font-size: 150%;
 }
+
+.player-info-header {
+  text-align: center;
+}
