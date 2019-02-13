@@ -1,0 +1,26 @@
+/* Add any css you want to use for you website here */
+
+table, th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-title {
+  text-align: center;
+  font-size: 500%;
+}
+
+.chip-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-para {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 150%;
+}
